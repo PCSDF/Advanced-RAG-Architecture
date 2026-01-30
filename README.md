@@ -27,16 +27,16 @@ This roadmap systematically builds your skills, ensuring a solid foundation befo
 
 | Day | Module Title | Focus Area |
 | :--- | :--- | :--- |
-| **01** | [**Python Foundations**](./Day01) | Python basics, data structures, file handling, APIs |
-| **02** | [**GenAI & LLM Basics**](./Day02) | Understanding LLMs, OpenAI API, model capabilities |
-| **03** | [**Prompt Engineering**](./Day03) | Chain-of-Thought, Few-Shot, and System Prompts |
-| **04** | [**Data Extraction**](./Day04) | PDF parsing, Web Scraping, Chunking Strategies |
-| **05** | [**Vector Databases**](./Day05) | Embeddings, Cosine Similarity, ChromaDB Setup |
-| **06** | [**RAG Fundamentals**](./Day06) | The Retrieval → Augmentation → Generation Loop |
-| **07** | [**RAG from Scratch**](./Day07) | Building a RAG system without frameworks (Pure Python) |
-| **08** | [**LangChain & LlamaIndex**](./Day08) | Mastering the industry-standard frameworks |
-| **09** | [**Advanced RAG**](./Day09) | Reranking, Query Rewriting, Fusion Retrieval |
-| **10** | [**Deployment**](./Day10) | FastAPI, Streamlit, and Production Best Practices |
+| **01** | [**Python Foundations**](.//Day-01) | Python basics, data structures, file handling, APIs |
+| **02** | [**GenAI & LLM Basics**](./Day-02) | Understanding LLMs, OpenAI API, model capabilities |
+| **03** | [**Prompt Engineering**](./Day-03) | Chain-of-Thought, Few-Shot, and System Prompts |
+| **04** | [**Data Extraction**](./Day-04) | PDF parsing, Web Scraping, Chunking Strategies |
+| **05** | [**Vector Databases**](./Day-05) | Embeddings, Cosine Similarity, ChromaDB Setup |
+| **06** | [**RAG Fundamentals**](./Day-06) | The Retrieval → Augmentation → Generation Loop |
+| **07** | [**RAG from Scratch**](./Day-07) | Building a RAG system without frameworks (Pure Python) |
+| **08** | [**LangChain & LlamaIndex**](./Day-08) | Mastering the industry-standard frameworks |
+| **09** | [**Advanced RAG**](./Day-09) | Reranking, Query Rewriting, Fusion Retrieval |
+| **10** | [**Deployment**](./Day-10) | FastAPI, Streamlit, and Production Best Practices |
 
 ---
 
