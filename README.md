@@ -42,7 +42,7 @@ This roadmap systematically builds your skills, ensuring a solid foundation befo
 
 ## 🎯 How to Use This Repository
 
-1.  **Sequential Learning:** Start with [Day 01](./Day01) and move forward. Do not skip days.
+1.  **Sequential Learning:** Start with [Day 01]((https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-01_%20Python%20Foundations%20for%20GenAI)) and move forward. Do not skip days.
 2.  **Daily Routine:**
     * 📖 **Read:** Open the `README.md` in each day's folder.
     * 💻 **Code:** Type out the examples yourself (don't just copy-paste!).
