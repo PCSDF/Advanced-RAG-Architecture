@@ -28,15 +28,15 @@ This roadmap systematically builds your skills, ensuring a solid foundation befo
 | Day | Module Title | Focus Area |
 | :--- | :--- | :--- |
 | **01** | [**Python Foundations**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-01_%20Python%20Foundations%20for%20GenAI) | Python basics, data structures, file handling, APIs |
-| **02** | [**GenAI & LLM Basics**](./Day-02) | Understanding LLMs, OpenAI API, model capabilities |
-| **03** | [**Prompt Engineering**](./Day-03) | Chain-of-Thought, Few-Shot, and System Prompts |
-| **04** | [**Data Extraction**](./Day-04) | PDF parsing, Web Scraping, Chunking Strategies |
-| **05** | [**Vector Databases**](./Day-05) | Embeddings, Cosine Similarity, ChromaDB Setup |
-| **06** | [**RAG Fundamentals**](./Day-06) | The Retrieval → Augmentation → Generation Loop |
-| **07** | [**RAG from Scratch**](./Day-07) | Building a RAG system without frameworks (Pure Python) |
-| **08** | [**LangChain & LlamaIndex**](./Day-08) | Mastering the industry-standard frameworks |
-| **09** | [**Advanced RAG**](./Day-09) | Reranking, Query Rewriting, Fusion Retrieval |
-| **10** | [**Deployment**](./Day-10) | FastAPI, Streamlit, and Production Best Practices |
+| **02** | [**GenAI & LLM Basics**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-02_%20Generative%20AI%20%26%20LLM%20Basics) | Understanding LLMs, OpenAI API, model capabilities |
+| **03** | [**Prompt Engineering**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-03_%20Prompt%20Engineering%20Essentials) | Chain-of-Thought, Few-Shot, and System Prompts |
+| **04** | [**Data Extraction**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-04_%20Chunking%20%26%20Data%20Extraction%20(PDF-Web-Docs)) | PDF parsing, Web Scraping, Chunking Strategies |
+| **05** | [**Vector Databases**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-05_%20Embeddings%20%26%20Vector%20Databases) | Embeddings, Cosine Similarity, ChromaDB Setup |
+| **06** | [**RAG Fundamentals**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-06_%20RAG%20Fundamentals%20(Retrieval%20%E2%86%92%20Augmentation%20%E2%86%92%20Generation)) | The Retrieval → Augmentation → Generation Loop |
+| **07** | [**RAG from Scratch**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-07_%20Implement%20RAG%20From%20Scratch%20(Pure%20Python)) | Building a RAG system without frameworks (Pure Python) |
+| **08** | [**LangChain & LlamaIndex**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-08_%20RAG%20Using%20LangChain%20or%20LlamaIndex) | Mastering the industry-standard frameworks |
+| **09** | [**Advanced RAG**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-09_%20Advanced%20RAG%20(Reranking%2C%20Query%20Rewriting%2C%20Fusion)) | Reranking, Query Rewriting, Fusion Retrieval |
+| **10** | [**Deployment**](https://github.com/PCSDF/Advanced-RAG-Architecture/tree/main/Day-10_%20Build%20%26%20Deploy%20a%20RAG%20Application%20(FastAPI-Streamlit)) | FastAPI, Streamlit, and Production Best Practices |
 
 ---
 
@@ -112,9 +112,6 @@ Original Concept: Adapted from open-source community roadmaps.
 Motto: Defending Digital Borders through Intelligence.
 
 
-### 💡 Pro Tip:
-In the "Roadmap Overview" table, I made the "Module Title" clickable links (e.g., `[Python Foundations](./Day01)`).
-* **Make sure** you actually create folders named `Day01`, `Day02`, etc., inside your repo.
-* If you don't create the folders, the links won't work yet (but they will work automatically once you add the folders later!).
 
-**Would you like me to generate the content for Day 2 ("Generative AI & LLM Basics")
+
+
