@@ -27,7 +27,7 @@ This roadmap systematically builds your skills, ensuring a solid foundation befo
 
 | Day | Module Title | Focus Area |
 | :--- | :--- | :--- |
-| **01** | [**Python Foundations**](.//Day-01%20Python%20Foundations%20for%20GenAI) | Python basics, data structures, file handling, APIs |
+| **01** | [**Python Foundations**](./Day-01%20Python%20Foundations%20for%20GenAI) | Python basics, data structures, file handling, APIs |
 | **02** | [**GenAI & LLM Basics**](./Day-02) | Understanding LLMs, OpenAI API, model capabilities |
 | **03** | [**Prompt Engineering**](./Day-03) | Chain-of-Thought, Few-Shot, and System Prompts |
 | **04** | [**Data Extraction**](./Day-04) | PDF parsing, Web Scraping, Chunking Strategies |
